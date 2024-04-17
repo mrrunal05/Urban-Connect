@@ -1,0 +1,42 @@
+.navbar-light .navbar-nav .nav-link {
+    color: #000;
+  }
+
+
+  
+table {
+    margin: 0 auto;
+
+}
+.gradient-custom {
+    /* fallback for old browsers */
+    background: #f6d365;
+    
+    /* Chrome 10-25, Safari 5.1-6 */
+    background: -webkit-linear-gradient(to right bottom, rgba(246, 211, 101, 1), rgba(253, 160, 133, 1));
+    
+    /* W3C, IE 10+/ Edge, Firefox 16+, Chrome 26+, Opera 12+, Safari 7+ */
+    background: linear-gradient(to right bottom, rgba(246, 211, 101, 1), rgba(253, 160, 133, 1))
+    }
+
+.sign{
+    font-weight: bold;
+    color: black;
+    text-decoration: none;
+    margin: 0;
+}
+
+.sbutton{
+    padding: 10px 15px;
+    border-radius: 15px;
+    background-color: rgb(33, 43, 91);
+    color: white;
+    font-size: 20px;
+
+}
+
+.loginbutton{
+    padding: 15px 20px;
+
+}
+
